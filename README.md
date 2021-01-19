@@ -1,2 +1,2 @@
 # Scripts
-some python scripts i made while working
+Some Python Scripts I Made While Working
